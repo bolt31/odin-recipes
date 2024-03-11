@@ -1,0 +1,18 @@
+h1 {
+    background-color: rgb(93, 0, 93);
+    color: gold;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.recipe {
+    background-color: lightblue;
+    color: silver;
+    font-weight: bold;
+}
+
+.recipeimage {
+    height: auto;
+    width: 400px;
+}
